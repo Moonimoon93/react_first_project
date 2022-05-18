@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-first-project/tree/main/movie-app/static/js/main.6fb402e8.js",
-    "index.html": "/react-first-project/tree/main/movie-app/index.html",
-    "main.6fb402e8.js.map": "/react-first-project/tree/main/movie-app/static/js/main.6fb402e8.js.map"
+    "main.js": "/react-first-project/static/js/main.6fb402e8.js",
+    "index.html": "/react-first-project/index.html",
+    "main.6fb402e8.js.map": "/react-first-project/static/js/main.6fb402e8.js.map"
   },
   "entrypoints": [
     "static/js/main.6fb402e8.js"
